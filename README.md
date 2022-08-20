@@ -1,5 +1,5 @@
 # Getting Started Crud
-## Use
+## Using
 - ReactJs 
 - Redux - Toolkit
 - TailwindCss
