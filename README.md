@@ -1,3 +1,6 @@
 # Getting Started Crud
-using ReactJs and Redux - Toolkit
+## Use
+- ReactJs 
+- Redux - Toolkit
+- TailwindCss
 
